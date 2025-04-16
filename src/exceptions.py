@@ -22,9 +22,3 @@ def ingrese_numero():
     except ValueError:
         raise ValueError("La entrada debe ser un número válido") 
     
-    
-
-
-def ingrese_numero():
-
-    return
